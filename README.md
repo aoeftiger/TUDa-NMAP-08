@@ -2,7 +2,7 @@
 
 MSc lecture at TU Darmstadt, etit, TEMF by Adrian Oeftiger in 2022.
 
-Eigth part of a jupyter notebook lecture series, held on 16.12.2022.
+Eighth part of a jupyter notebook lecture series, held on 16.12.2022.
 
 Find the rendered HTML slides [here](https://aoeftiger.github.io/TUDa-NMAP-08/).
 
